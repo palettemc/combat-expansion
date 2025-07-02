@@ -2,31 +2,36 @@
 name: Bug report
 about: Report any issues found in the datapack
 title: ''
-labels: ''
+labels: bug report
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Explain what the bug is and what it's doing. State whether the issue has to do with the resource pack or the data pack.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to reproduce**
+If applicable, use a numbered list to give steps on how to reproduce the bug.
+1. Do this...
+2. Do that...
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Explain what is supposed to normally happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots & videos**
+If possible, use screenshots or even videos which show the bug.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Mods, data packs, and resource packs**
+Write a list of the mods, data packs and resource packs that you are using. Make sure to include your Minecraft version and, if applicable, your mod loader (Fabric, Forge, etc.).
 
-**Additional context**
-Add any other context about the problem here.
+Mods:
+- mod 1
+- mod 2
+
+Data packs:
+- data pack 1
+- data pack 2
+
+Resource packs:
+- resource pack 1
+- resource pack 2
