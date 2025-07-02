@@ -47,6 +47,8 @@ Certain vanilla enchantments have been modified to become stronger. The list bel
 
 ## 🛠️ Installation and Usage
 
+*The data pack and the resource pack can both be downloaded on the [Modrinth page](https://modrinth.com/datapack/cmbt-exp).*
+
 When installing any version, make sure you download both the data pack (marked with "[DP]") **and** the resource pack (marked with "[RP]").
 
 In order for the data pack to work properly, the resource pack must also be installed; otherwise, all of the custom textures will break.
