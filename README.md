@@ -7,7 +7,7 @@ This data pack adds many different weapons, armor sets, and even enchantments to
 Below is a list of how many new items/enchantments there are:
 - 33 different weapons
 - 4 overpowered armor sets
-- 13 enchantments
+- 16 enchantments
 
 *More items are coming in the future!*
 
@@ -37,6 +37,8 @@ The following list contains every mob which has a Powerful variant:
 - Piglin
 - Piglin Brute
 - Zombified Piglin
+- Wither Skeleton
+- Vex
 
 ### 📖 Reworked Enchantments
 
@@ -44,6 +46,8 @@ Certain vanilla enchantments have been modified to become stronger. The list bel
 - Sharpness: Now deals an extra 10% of damage per level rather than +0.5
 - Impaling: Deals extra damage to all mobs, not just aquatic mobs
 - Thorns: Returns more damage the lower the user is
+- Piercing & Multishot: Both enchantments are now compatible
+- Channeling: No longer needs a thunderstorm to strike lightning
 
 ## 🛠️ Installation and Usage
 
@@ -57,10 +61,12 @@ To apply the data pack to your new world, click on More, then click Datapacks, t
 
 To use the data pack, you can type `/function combat_expansion:_all_items` to view all of the different equipment and to give items to yourself.
 
+*If you are downloading the mod version, then there is no need to download the resource pack*
+
 ## 🔴 Issues, Questions, and Suggestions
 
 All bugs that you find should be reported on the [official GitHub page](https://github.com/palettemc/combat-expansion/issues). If you have any questions or suggestions, they can also be reported there.
 
 ## ❓ Wiki
 
-The wiki page for Combat Expansion is still a work-in-progress. Once it is completed, the link will be here.
+The wiki for Combat Expansion can be accessed using [this link](https://github.com/palettemc/combat-expansion/wiki).
