@@ -2,7 +2,7 @@
 
 # ⚔️ Combat Expansion ⚔️
 
-This data pack adds many different weapons, armor sets, and even enchantments to enhance your PvP experience!
+This Minecraft Dungeons-inspired data pack adds many different weapons, armor sets, and even enchantments to enhance your PvP experience!
 
 Below is a list of how many new items/enchantments there are:
 - 33 different weapons
@@ -43,19 +43,17 @@ The following list contains every mob which has a Powerful variant:
 ### 📖 Reworked Enchantments
 
 Certain vanilla enchantments have been modified to become stronger. The list below includes which enchantments have been changed and how they have been changed.
-- Sharpness: Now deals an extra 10% of damage per level rather than +0.5
-- Impaling: Deals extra damage to all mobs, not just aquatic mobs
-- Thorns: Returns more damage the lower the user is
-- Piercing & Multishot: Both enchantments are now compatible
-- Channeling: No longer needs a thunderstorm to strike lightning
+- **Sharpness:** Now deals an extra 10% of damage per level rather than +0.5
+- **Impaling:** Deals extra damage to all mobs, not just aquatic mobs
+- **Thorns:** Returns more damage the lower the user is
+- **Piercing & Multishot:** Both enchantments are now compatible
+- **Channeling:** No longer needs a thunderstorm to strike lightning
 
 ## 🛠️ Installation and Usage
 
-*The data pack and the resource pack can both be downloaded on the [Modrinth page](https://modrinth.com/datapack/cmbt-exp).*
-
 When installing any version, make sure you download both the data pack (marked with "[DP]") **and** the resource pack (marked with "[RP]").
 
-In order for the data pack to work properly, the resource pack must also be installed; otherwise, all of the custom textures will break.
+For the data pack to work properly, the resource pack must also be installed; otherwise, all of the custom textures will break.
 
 To apply the data pack to your new world, click on More, then click Datapacks, then you can drag-and-drop the data pack file into your Minecraft window.
 
